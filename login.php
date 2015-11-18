@@ -20,7 +20,10 @@
 
     <!-- Page Content -->
     <div class="container">
-     <hr class="featurette-divider">
+     
+      <hr class="featurette-divider"><br>
+     
+     <fieldset class="loginfieldset">
             <form action="#" method="post" class="form-horizontal">
                 <div class="get-in-touch">
                     <h3 class="text-center">What are you waiting for! Sign in now!</h3>
@@ -39,12 +42,13 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-info pull" role="button" style="width: 200px;">Sign in</button>
-                        <button type="submit" class="btn btn-success pull" style="width: 200px;margin-left:30px;" role="button">Register</button>
+                        <button type="submit" class="btn btn-info pull widthBtn" role="button">Sign in</button>
+                        <a href="register.php" class="btn btn-success pull widthBtnMargin" role="button">Register</a>
                         </div>
                     </div>
                 </div>
             </form>
+      </fieldset>
           <hr class="featurette-divider">
 
         <!-- Footer -->

@@ -10,7 +10,6 @@
     <meta name="author" content="">
 
     <title>Fifa friends</title>
-		hey yegor
 </head>
 
 <body class="background-content">
@@ -20,7 +19,10 @@
 
     <!-- Page Content -->
     <div class="container">
-     <hr class="featurette-divider">
+    
+     <hr class="featurette-divider"><br>
+     
+     <fieldset class="loginfieldset">
             <form action="#" method="post" class="form-horizontal">
                 <div class="get-in-touch">
                     <h3 class="text-center">Ready to defend you're throne! Sign up now!</h3>
@@ -51,11 +53,12 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-success pull" style="width: 200px;" role="button">Register</button>
+                        <button type="submit" class="btn btn-success pull widthBtn" role="button">Register</button>
                         </div>
                     </div>
                 </div>
             </form>
+            </fieldset>
           <hr class="featurette-divider">
 
         <!-- Footer -->

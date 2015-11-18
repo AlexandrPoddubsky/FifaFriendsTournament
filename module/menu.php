@@ -8,23 +8,23 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">FIFA Friends Tournaments</a>
+                <a class="navbar-brand" href="index.php">FIFA Friends Tournaments</a>
             </div>
            
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="#page-top"></a>
+                        <a href="#"></a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="#"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> Log in / Register</a>
+                    <li>
+                        <a href="login.php"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> Log in / Register</a>
                     </li>
-                    <li class="page-scroll">
+                    <li>
                         <a href="#"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> HOW TO PLAY</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="#"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a>
+                    <li>
+                        <a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a>
                     </li>  
                 </ul>   
             </div>  
