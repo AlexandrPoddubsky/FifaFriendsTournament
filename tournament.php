@@ -64,6 +64,8 @@
         <tr><td>33135</td><td>The ruler king</td><td>4 / 4</td><td>2</td><td><a href="#" style="text-decoration:none;">View</a></td></tr>   
         </table>
         </div>
+        
+        <a href="play.php" class="btn btn-info widthBtn pull-left">Go back</a>
 
         <hr class="featurette-divider">
 

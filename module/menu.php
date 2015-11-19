@@ -18,13 +18,13 @@
                         <a href="#"></a>
                     </li>
                     <li>
+                        <a href="how-to-play.php">HOW TO PLAY</a>
+                    </li>
+                    <li>
+                        <a href="contact.php">Contact</a>
+                    </li>
+                    <li>
                         <a href="login.php"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> Log in / Register</a>
-                    </li>
-                    <li>
-                        <a href="#"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> HOW TO PLAY</a>
-                    </li>
-                    <li>
-                        <a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a>
                     </li>  
                 </ul>   
             </div>  

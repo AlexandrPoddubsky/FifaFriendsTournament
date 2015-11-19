@@ -38,7 +38,7 @@
             <h2 class="featurette-heading"> Become the FIFA King of 
                 <span class="text-muted">your friends</span>
             </h2>
-            <p class="lead">Do you wanna prove yourself to your friends? You wanna show them hows the best in FIFA? Proof yourself to them, because defeat retreat those are not in your words i don't understand those definitions. </p>
+            <p class="lead">Are you the best FIFA player in town? Do you want to challenge your friends and show them how the game of FIFA is played by winners? Defeat and Retreat are not in your vocabulary, so prove your Royal rank in FIFA today!</p>
         </div>
         
         <hr class="featurette-divider">
@@ -46,10 +46,12 @@
         <!-- Second Featurette -->
         <div class="featurette">
             <img class="featurette-image img-circle img-responsive pull-left" src="img/stadiium1.jpg" width="500px">
-            <h2 class="featurette-heading">Play online with
-                <span class="text-muted">your friends </span>
+            <h2 class="featurette-heading">Add your friends to 
+                <span class="text-muted">your friendlist</span>
             </h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <p class="lead"><strong>FIFA Friends Tournaments</strong> is created to have all of you friends playing FIFA in one place. 
+            One of the greatest features of FFT is the possibility to add your friends to a tournament. Create your account now!
+         </p>
         </div>
 
         <hr class="featurette-divider">
@@ -60,7 +62,7 @@
             <h2 class="featurette-heading">Create Tournament
                 <span class="text-muted">Start playing</span>
             </h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <p class="lead">You're a few steps away to start playing FIFA with your friends. Register now, invite your friends and lets play the game. <strong> It's in the game!</strong></p>
         </div>
           <hr class="featurette-divider">
         
