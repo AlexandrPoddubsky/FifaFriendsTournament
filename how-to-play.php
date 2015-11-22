@@ -25,7 +25,7 @@
       <hr class="featurette-divider"><br>
         <h3>frequently asked questions</h3>      
         <hr>
-    <div class="panel-group" id="accordion">
+      <div class="panel-group" id="accordion">
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -184,15 +184,15 @@
         </div>
     </div>
 </div>
-->
-          <hr class="featurette-divider">
-
-        <!-- Footer -->
-        <?php include "module/footer.php"; ?>
-
+-->
+      <hr class="featurette-divider">
 
     </div>
+    </div>
     <!-- /.container -->
+    
+  <!-- Footer -->
+  <?php include "module/footer.php"; ?>
        
 </body>
 

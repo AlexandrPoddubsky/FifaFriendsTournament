@@ -68,12 +68,11 @@
         
         <img src="img/messi.png" width="100%">
 
-        <!-- Footer -->
-        <?php include "module/footer.php"; ?>
-
-
     </div>
     <!-- /.container -->
+ 
+    <!-- Footer -->
+    <?php include "module/footer.php"; ?>
        
 </body>
 

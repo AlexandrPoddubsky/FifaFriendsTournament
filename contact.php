@@ -68,13 +68,11 @@
         </div>
 
           <hr class="featurette-divider">
-
-        <!-- Footer -->
-        <?php include "module/footer.php"; ?>
-
-
     </div>
     <!-- /.container -->
+    
+      <!-- Footer -->
+  <?php include "module/footer.php"; ?>
        
 </body>
 

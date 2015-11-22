@@ -7,6 +7,23 @@
 body {
     margin-top: 100px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes.  */ 
 /* FAQ styles */
+html {
+  position: relative;
+  min-height: 100% !important;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background:rgba(4, 4, 4, 0.39);
+  color:white;
+}
 
 .panel-heading [data-toggle="collapse"]:after
 {
@@ -93,10 +110,6 @@ width: 200px;
 
 .featurette-heading {
     font-size: 50px;
-}
-
-footer {
-    margin: 50px 0;
 }
 
 @media(max-width:1200px) {

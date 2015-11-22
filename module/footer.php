@@ -1,14 +1,15 @@
           <!-- Footer -->
         <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
-                </div>
+        <div class="container">
+            <div class="row"  style="margin-top:15px;">
+             <h5>&copy; 2014 - 2015 FifaFriendsTournament</h5> 
             </div>
+        </div>
         </footer>
         
         <!-- jQuery -->
         <script src="js/jquery.js"></script>
+
 
         <!-- Bootstrap Core JavaScript -->
         <script src="js/bootstrap.min.js"></script>

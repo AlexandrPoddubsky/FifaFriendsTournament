@@ -27,9 +27,7 @@
      
      <!-- Main page -->
       <div class="col-xs-12 col-sm-6 col-md-8">
-      
-        
-      
+
       <h3>Welcome, djdino56 <br><small>What are you up to?</small></h3>
       
       <a href="#" class="btn btn-warning btn-lg" role="button" style="width:240px;"><h1>180</h1>Matches Played</a> | 
@@ -58,8 +56,8 @@
       
       <table class="table table-hover">
         <th>Username</th><th>Accept</th><th>Decline</th>
-        <tr><td>playeryegor</td><td><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></a></td><td><a href="#"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a></td></tr>
-        <tr><td>spongetjes</td><td><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></a></td><td><a href="#"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a></td></tr>
+        <tr><td>playeryegor</td><td><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></a></td><td><a href="#"><span class="glyphicon glyphicon-remove" style="color:red;" aria-hidden="true"></span></a></td></tr>
+        <tr><td>spongetjes</td><td><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></a></td><td><a href="#"><span class="glyphicon glyphicon-remove" style="color:red;" aria-hidden="true"></span></a></td></tr>
       </table>
       
       </div>
@@ -133,16 +131,12 @@
       </div>
       </div>
       
-      
-      
       <hr class="featurette-divider">
-
-        <!-- Footer -->
-        <?php include "module/footer.php"; ?>
-
-
+      
     </div>
     <!-- /.container -->
+            <!-- Footer -->
+        <?php include "module/footer.php"; ?>
        
 </body>
 
