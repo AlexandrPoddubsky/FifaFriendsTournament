@@ -18,14 +18,10 @@
    <?php include "module/menu.php"; ?>
 
     <!-- Page Content -->
-    <div class="container">
-    
-        <hr class="featurette-divider"><br>
-
-        <div class="container">
+    <div class="container containerContent">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Contact Me</h2>
+                    <h3>Contact Us</h3>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -65,9 +61,6 @@
                     </form>
                 </div>
             </div>
-        </div>
-
-          <hr class="featurette-divider">
     </div>
     <!-- /.container -->
     

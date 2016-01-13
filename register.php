@@ -12,15 +12,19 @@
     <title>Fifa friends</title>
 </head>
 
-<body class="background-content">
+<body style="
+    background-image: url('img/register-image.jpg');no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      }">
 
    <!-- Navigation -->
    <?php include "module/menu.php"; ?>
 
     <!-- Page Content -->
-    <div class="container">
-    
-     <hr class="featurette-divider"><br>
+    <div class="container containerContent"> 
      
      <fieldset class="loginfieldset">
             <form action="#" method="post" class="form-horizontal">
@@ -53,13 +57,12 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-success pull widthBtn" role="button">Register</button>
+                        <button type="submit" class="btn btn-success pull widthBtn" role="button" >Register</button>
                         </div>
                     </div>
                 </div>
             </form>
             </fieldset>
-          <hr class="featurette-divider">
        </div>
     <!-- /.container -->
     

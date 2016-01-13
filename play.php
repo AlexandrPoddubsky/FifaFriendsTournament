@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
+      <!-- MY FFT  MENU
+      <h3>My FFT</h3>
+        <hr>
+        <ul class="list-unstyled">
+              <li>
+                  <a href="tournament.php">
+                      <span class="glyphicon glyphicon-menu-right text-primary"></span> My Tournaments
+                  </a>
+              </li>
+              <li>
+                  <a href="#getting-started">
+                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Create Tournament
+                  </a>
+              </li>
+              <li>
+                  <a href="#setting-up-our-page">
+                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Account settings
+                  </a>
+              </li>
+              <li>
+                  <a href="#conclusion">
+                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Log out
+                  </a>
+              </li>
+        </ul>
+        -->
 <head>
 
     <!-- Head -->
@@ -43,8 +68,8 @@
       
       <table class="table table-bordered">
         <th>MatchID</th><th>Home</th><th class="text-center">Match</th><th class="text-right">Away</th>
-        <tr><td>123456</td><td><img src="http://placehold.it/25x20" alt=""> Real Madrid (djdino56)</td><td class="text-center">1 - 1</td><td class="text-right">(spongi_07) Barcelona <img src="http://placehold.it/25x20" alt=""></td></tr>
-        <tr><td>324335</td><td>Real Madrid (djdino56)</td><td class="text-center">0 - 0</td><td class="text-right">(spongi_07) Arsenal</td></tr>
+        <tr><td>123456</td><td>djdino56</td><td class="text-center">1 - 1</td><td class="text-right">spongi_07</td></tr>
+        <tr><td>324335</td><td>djdino56</td><td class="text-center">0 - 0</td><td class="text-right">spongi_07</td></tr>
       </table>
       
       </div>
@@ -65,65 +90,30 @@
       </div>
       
       <!-- Site Menu -->
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
       
-      
-      <!-- MY FFT -->
-      <h3>My FFT</h3>
-        <hr>
-        <ul class="list-unstyled">
-              <li>
-                  <a href="tournament.php">
-                      <span class="glyphicon glyphicon-menu-right text-primary"></span> My Tournaments
-                  </a>
-              </li>
-              <li>
-                  <a href="#getting-started">
-                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Create Tournament
-                  </a>
-              </li>
-              <li>
-                  <a href="#setting-up-our-page">
-                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Account settings
-                  </a>
-              </li>
-              <li>
-                  <a href="#conclusion">
-                      <span class="glyphicon glyphicon-menu-right text-primary"></span> Log out
-                  </a>
-              </li>
-        </ul>
-        
         <!-- Friends -->
       <h3>Friends</h3>
         <hr>
-		    <div class="span4 well">
-      		
-            <div class="span">
-                  	<a href="#"><p><strong>djdino56</strong></p></a>
-        			<span class=" badge badge-info">15 vrienden</span>  <img src="http://placehold.it/75x75" class="pull-right img-rounded" style="margin-top:-40px;margin-right:25px;">
-        		</div>
-            
-            
-            <hr style="border:1px solid green;">
+		    <div class="span4 well">            
                        
             <div class="span">
-                  	<a href="#"><p><strong>playeryegor</strong></p></a>
-        			<span class=" badge alert-danger">delete</span> <span class=" badge badge-info">2 vrienden</span>
+              <a href="#"><p><strong>playeryegor</strong></p></a>
+        			<span class="badge alert-danger">delete</span>
         		</div> 
                    
            <hr style="border:1px solid green;">
                                   
             <div class="span">
-                  	<a href="#"><p><strong>spong07</strong></p></a>
-        			<span class=" badge badge-info">1 vrienden</span>
+            <a href="#"><p><strong>spong07</strong></p></a>
+        		<span class="badge alert-danger">delete</span>
         		</div> 
             
             <hr style="border:1px solid green;">
                                     
             <div class="span">
-                  <a href="#">	<p><strong>djdino</strong></p> </a>
-        		 <span class=" badge badge-info">10 vrienden</span>
+            <a href="#"><p><strong>djdino</strong></p> </a>
+        		<span class="badge alert-danger">delete</span>
         		</div> 
            
         </div>

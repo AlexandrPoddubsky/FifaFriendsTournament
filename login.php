@@ -13,15 +13,19 @@
 
 </head>
 
-<body class="background-content">
+<body style="
+    background-image: url('img/login.jpg');no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      }">
 
    <!-- Navigation -->
    <?php include "module/menu.php"; ?>
 
     <!-- Page Content -->
-    <div class="container">
-     
-      <hr class="featurette-divider"><br>
+    <div class="container containerContent">     
      
      <fieldset class="loginfieldset">
             <form action="#" method="post" class="form-horizontal">
@@ -49,7 +53,6 @@
                 </div>
             </form>
       </fieldset>
-          <hr class="featurette-divider">
 
     </div>
     <!-- /.container -->
